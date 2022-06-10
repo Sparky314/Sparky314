@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Sparky314 and I'm a bebinner iOS-developer!
+- 👋 Hi there, I’m @Sparky314 and I'm an independent iOS-developer!
 - 👀 I’m interested in Swift programming language, Solar engineering and playing video games. 
 - 🌱 I’m currently learning to make apps for iOS, but in the near future I also would like to make apps for macOS, watchOS and tvOS as well.
 - 💞️ I’m looking to collaborate on development cool apps for Apple platform.  
